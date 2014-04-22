@@ -1,0 +1,23 @@
+{
+  "name": "OTCore",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ot-brandon-pugh/try_git",
+  "authors": [
+    "Brandon Pugh <bpugh@onetechnologies.net>"
+  ],
+  "description": "OT core js libraries",
+  "main": "dist/OTCore-built.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
